@@ -401,7 +401,8 @@ See also [VALL-E X](#tts--zero-shot--few-shot), [OpenVoice](#voice-cloning--zero
 - [WSChuan-eval](https://github.com/ASLP-lab/WenetSpeech-Chuan#benchmark) ![stars](https://img.shields.io/github/stars/ASLP-lab/WenetSpeech-Chuan.svg?cacheSeconds=86400) - Comprehensive Sichuanese benchmark with ASR and TTS subsets for dialectal speech processing.
 - [WSYue-eval](https://github.com/ASLP-lab/WenetSpeech-Yue#benchmark) ![stars](https://img.shields.io/github/stars/ASLP-lab/WenetSpeech-Yue.svg?cacheSeconds=86400) - Comprehensive Cantonese benchmark with ASR and zero-shot TTS subsets covering code-switching and diverse domains.
 - [WenetSpeech-Wu-Bench](https://huggingface.co/datasets/ASLP-lab/WenetSpeech-Wu-Bench) - Benchmark for Wu dialect ASR, AST, speaker traits, emotion recognition, TTS, and instruction-following TTS.
-- [Whisper-RIR-Mega](https://huggingface.co/datasets/mandipgoswami/whisper-rirmega-bench) - Paired clean-reverberant benchmark for measuring Whisper-style ASR robustness across room acoustics.
+- [Whisper-RIR-Mega](https://huggingface.co/datasets/mandipgoswami/whisper-rirmega-bench) - Paired clean-reverberant benchmark for measuring Whisper-style ASR robustness across room acoustics
+- [CAFA-IVR](https://github.com/sridharanvijaykumar/cafa-ivr) - CLI framework for counterfactual ASR failure attribution in IVR testing, reporting ASR-IFR, CEER, and CIER metrics over a 360-trial reproduction..
 
 ## Speech LLM & Real-time Systems
 
